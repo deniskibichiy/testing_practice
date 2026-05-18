@@ -4,7 +4,7 @@
   "description": "testing using jest",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/deniskibichiy/testing_practice/issues"
   },
-  "homepage": "https://github.com/deniskibichiy/testing_practice#readme"
+  "homepage": "https://github.com/deniskibichiy/testing_practice#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.29.5",
+    "jest": "^30.4.2"
+  }
 }
