@@ -175,3 +175,6 @@ test("Value should not be zero", () => {
     expect(5).not.toBe(0);
 });
 ```
+## Isolation and its Importance in testing
+* 
+## Pure Functions and their
